@@ -1,0 +1,14 @@
+layout_spectrum: 0.3085820043925196
+typography_spectrum: 0.8363841364625841
+color:
+  brandStrength: 0.01637455658055842
+  lightness: 0.4295368033926934
+  saturation: 0.5189708145335317
+  rhythmicContrast: 0.08732309797778726
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: Evalon
